@@ -1,6 +1,5 @@
 import instagram from '../assets/instagram.png'
 //import appstore from '../assets/IMG_20201124_112759.png'
-import download from '../assets/download.png'
 //import dribbble from '../assets/dribbble.png'
 //import github from '../assets/github.png'
 import website from '../assets/website.png'
