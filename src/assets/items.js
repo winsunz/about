@@ -5,7 +5,7 @@ import instagram from '../assets/instagram.png'
 import website from '../assets/website.png'
 import fuckrap from '../assets/fuckrap.png'
 import spotify from '../assets/spotify.png'
-
+import download from '../assets/download.png'
 const items = [{
     "title": "Website",
     "subtitle": "winsunz.com | Shit bro",
@@ -29,6 +29,12 @@ const items = [{
     "subtitle": "Spotify是一个好音乐软件-Obama",
     "image": spotify,
     "link": "https://open.spotify.com/user/winsunz"
+},
+{
+    "title": "download",
+    "subtitle": "网盘集合",
+    "image": download,
+    "link": "https://down.winsunz.com"
 }
 ]
 //{
