@@ -6,6 +6,7 @@ import website from '../assets/website.png'
 import fuckrap from '../assets/fuckrap.png'
 import spotify from '../assets/spotify.png'
 import download from '../assets/download.png'
+import cloud from '../assets/cloud.png'
 const items = [{
     "title": "Website",
     "subtitle": "winsunz.com | Shit bro",
@@ -35,6 +36,12 @@ const items = [{
     "subtitle": "网盘集合",
     "image": download,
     "link": "https://down.winsunz.com"
+},
+{
+    "title": "cloud",
+    "subtitle": "私人云盘",
+    "image": cloud,
+    "link": "https://cloud.winsunz.com"
 }
 ]
 //{
