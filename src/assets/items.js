@@ -32,10 +32,10 @@ const items = [{
     "link": "https://open.spotify.com/user/winsunz"
 },
 {
-    "title": "download",
-    "subtitle": "网盘集合",
+    "title": "Download",
+    "subtitle": "哦泡时间到",
     "image": download,
-    "link": "https://down.winsunz.com"
+    "link": "https://opao.ooo"
 },
 {
     "title": "私人云盘",
