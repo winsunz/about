@@ -5,7 +5,7 @@ import instagram from '../assets/instagram.png'
 import website from '../assets/website.png'
 import fuckrap from '../assets/fuckrap.png'
 import spotify from '../assets/spotify.png'
-import download from '../assets/download.png'
+import cloud from '../assets/cloud.png'
 import sslimgs from '../assets/sslimgs.png'
 const items = [{
     "title": "Website",
