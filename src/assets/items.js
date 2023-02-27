@@ -34,7 +34,7 @@ const items = [{
 {
     "title": "SSLIMGS",
     "subtitle": "搭的图床",
-    "image": sslimgs
+    "image": sslimgs,
     "link": "https://sslimgs.com"
 },
 {
