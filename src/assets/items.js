@@ -6,7 +6,7 @@ import website from '../assets/website.png'
 import fuckrap from '../assets/fuckrap.png'
 import spotify from '../assets/spotify.png'
 import download from '../assets/download.png'
-import cloud from '../assets/cloud.png'
+import sslimgs from '../assets/sslimgs.png'
 const items = [{
     "title": "Website",
     "subtitle": "winsunz.com | Shit bro",
@@ -32,10 +32,10 @@ const items = [{
     "link": "https://open.spotify.com/user/winsunz"
 },
 {
-    "title": "Download",
-    "subtitle": "哦泡时间到",
-    "image": download,
-    "link": "https://opao.ooo"
+    "title": "SSLIMGS",
+    "subtitle": "搭的图床",
+    "image": sslimgs
+    "link": "https://sslimgs.com"
 },
 {
     "title": "私人云盘",
