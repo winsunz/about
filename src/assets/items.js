@@ -8,7 +8,7 @@ import spotify from '../assets/spotify.png'
 import cloud from '../assets/cloud.png'
 import sslimgs from '../assets/sslimgs.png'
 const items = [{
-    "title": "Website",
+    "title": "博客",
     "subtitle": "winsunz.com | Shit bro",
     "image": website,
     "link": "https://winsunz.com"
@@ -21,7 +21,7 @@ const items = [{
 },
 {
     "title": "Fuck Rap",
-    "subtitle": "妈的笑死",
+    "subtitle": "妈的豆瓣以前的歌笑死",
     "image": fuckrap,
     "link": "https://site.douban.com/winsunz/room/3581322/"
 },
@@ -33,13 +33,13 @@ const items = [{
 },
 {
     "title": "SSLIMGS",
-    "subtitle": "搭的图床",
+    "subtitle": "用chevereto搭建的一个图床",
     "image": sslimgs,
     "link": "https://sslimgs.com"
 },
 {
-    "title": "私人云盘",
-    "subtitle": "我称之为1kb",
+    "title": "1kb.space",
+    "subtitle": "用filerun搭建的一个网盘",
     "image": cloud,
     "link": "https://1kb.space"
 }
